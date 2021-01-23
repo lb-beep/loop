@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.deps.json
+/Users/antonio/Desktop/CS133/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.json
+/Users/antonio/Desktop/CS133/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.dll
+/Users/antonio/Desktop/CS133/Loop/Loop/bin/Debug/netcoreapp3.1/Loop.pdb
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.dll
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.pdb
+/Users/antonio/Desktop/CS133/Loop/Loop/obj/Debug/netcoreapp3.1/Loop.genruntimeconfig.cache
